@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+.dora {
+    margin: 100px 310px 0 310px;
+}
+
+.vraag {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.wijzer {
+    color: #76BB31;
+    font-size: 20px;
+}
+
+.copyright {
+    font-size: 10px;
+}
+
+img {
+    padding: 70px;
+}
